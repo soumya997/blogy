@@ -5,6 +5,7 @@ title = "Megan Risdal"
 footnoteReturnLinkContents = "↩"
 theme = "base16"
 sectionPagesMenu = "main"
+pluralizeListTitles = "false"
 
 [params]
   AuthorName = "Megan Risdal"
