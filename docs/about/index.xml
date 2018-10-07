@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Megan Risdal</title>
-    <link>https://mrisdal.github.io/about/</link>
+    <link>https://mrisdal.github.io/blog/about/</link>
     <description>Recent content in Abouts on Megan Risdal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Oct 2018 19:27:42 -0700</lastBuildDate>
     
-	<atom:link href="https://mrisdal.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mrisdal.github.io/blog/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://mrisdal.github.io/about/about/</link>
+      <link>https://mrisdal.github.io/blog/about/about/</link>
       <pubDate>Sat, 06 Oct 2018 19:27:42 -0700</pubDate>
       
-      <guid>https://mrisdal.github.io/about/about/</guid>
+      <guid>https://mrisdal.github.io/blog/about/about/</guid>
       <description>More about me &amp;hellip; I have two Master&amp;rsquo;s degrees in linguistics, one from UCLA where I had started a PhD and the other from North Carolina State University. I studied laboratory phonology, sociophonetics, and statistical research methods.
 I&amp;rsquo;m originally from Minnesota, but I&amp;rsquo;ve lived in Wisconsin, France, North Carolina, Pennsylvania, and California (twice!).
 My favorite things are: watching horror and scifi movies, bike riding on the beach, discovering new places to eat, and struggling to decide what I want to learn next.</description>
@@ -24,10 +24,10 @@ My favorite things are: watching horror and scifi movies, bike riding on the bea
     
     <item>
       <title>Contact</title>
-      <link>https://mrisdal.github.io/about/contact/</link>
+      <link>https://mrisdal.github.io/blog/about/contact/</link>
       <pubDate>Sat, 06 Oct 2018 19:05:18 -0700</pubDate>
       
-      <guid>https://mrisdal.github.io/about/contact/</guid>
+      <guid>https://mrisdal.github.io/blog/about/contact/</guid>
       <description>Get in touch at first initial last name at gmail.</description>
     </item>
     

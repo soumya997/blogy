@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Megan Risdal</title>
-    <link>https://mrisdal.github.io/tags/</link>
+    <link>https://mrisdal.github.io/blog/tags/</link>
     <description>Recent content in Tags on Megan Risdal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Oct 2018 17:53:46 -0700</lastBuildDate>
     
-	<atom:link href="https://mrisdal.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mrisdal.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Personal</title>
-      <link>https://mrisdal.github.io/tags/personal/</link>
+      <link>https://mrisdal.github.io/blog/tags/personal/</link>
       <pubDate>Sat, 06 Oct 2018 17:53:46 -0700</pubDate>
       
-      <guid>https://mrisdal.github.io/tags/personal/</guid>
+      <guid>https://mrisdal.github.io/blog/tags/personal/</guid>
       <description></description>
     </item>
     
