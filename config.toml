@@ -1,0 +1,16 @@
+baseURL = "https://mrisdal.github.io/"
+publishDir = "docs"
+languageCode = "en-us"
+title = "Megan Risdal"
+footnoteReturnLinkContents = "↩"
+theme = "base16"
+sectionPagesMenu = "main"
+
+[params]
+  AuthorName = "Megan Risdal"
+  github_username = "mrisdal"
+  twitter_username = "meganrisdal"
+  SidebarRecentLimit = 5
+
+[permalinks]
+  post = "/:year/:month/:title/"

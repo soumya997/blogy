@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Megan Risdal</title>
+    <link>https://mrisdal.github.io/posts/</link>
+    <description>Recent content in Posts on Megan Risdal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Oct 2018 17:43:55 -0700</lastBuildDate>
+    
+	<atom:link href="https://mrisdal.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Hobbies</title>
+      <link>https://mrisdal.github.io/posts/new-hobbies/</link>
+      <pubDate>Sat, 06 Oct 2018 17:53:46 -0700</pubDate>
+      
+      <guid>https://mrisdal.github.io/posts/new-hobbies/</guid>
+      <description>A couple of weeks ago I tweeted that I wanted to explore new hobbies. For the past couple of years, I&amp;rsquo;ve engrossed myself in a job I love. My career development has been really rewarding professionally, but lately I&amp;rsquo;ve felt personally underdeveloped. My current hobbies include seeing movies (especially horror and sci-fi) and exploring my new home of Los Angeles (biking, hiking, and of course eating). While these things are fun, I feel like I could be doing and creating so much more.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://mrisdal.github.io/posts/hello-world/</link>
+      <pubDate>Sat, 06 Oct 2018 15:51:11 -0700</pubDate>
+      
+      <guid>https://mrisdal.github.io/posts/hello-world/</guid>
+      <description>Hello world! I&amp;rsquo;m recreating my personal website using Hugo. Previously it was written in Bootstrap. I hope you enjoy the new look and layout.</description>
+    </item>
+    
+  </channel>
+</rss>

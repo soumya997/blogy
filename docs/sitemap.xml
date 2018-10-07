@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://mrisdal.github.io/about/about/</loc>
+    <lastmod>2018-10-06T19:27:42-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mrisdal.github.io/about/contact/</loc>
+    <lastmod>2018-10-06T19:05:18-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mrisdal.github.io/posts/new-hobbies/</loc>
+    <lastmod>2018-10-06T17:53:46-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mrisdal.github.io/posts/</loc>
+    <lastmod>2018-10-06T17:43:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mrisdal.github.io/posts/hello-world/</loc>
+    <lastmod>2018-10-06T15:51:11-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mrisdal.github.io/about/</loc>
+    <lastmod>2018-10-06T19:27:42-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrisdal.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrisdal.github.io/categories/hobbies/</loc>
+    <lastmod>2018-10-06T17:53:46-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrisdal.github.io/</loc>
+    <lastmod>2018-10-06T19:27:42-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrisdal.github.io/tags/personal/</loc>
+    <lastmod>2018-10-06T17:53:46-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrisdal.github.io/tags/</loc>
+    <lastmod>2018-10-06T17:53:46-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
