@@ -46,3 +46,10 @@ Ideas flooded in! In case you might be inspired to try something new yourself, h
 Naturally, I ignored ALL of these suggestions. For my first hobby, I'm not straying far from my comfort zone (I am still in my sweats at home, after all)--I'm creating this new personal website. Now, there's a reason why I'm spending my first hobby project this way, of course. With this blog, I'll now have a place for me to document my "new hobby" hobbies.
 
 Anyway, so that's it for the meta-post. I hope you'll look forward to my next!
+
+--
+
+## Reply
+
+Follow the conversation and discuss on Twitter.
+
