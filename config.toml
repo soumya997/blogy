@@ -9,9 +9,13 @@ pluralizeListTitles = "false"
 
 [params]
   AuthorName = "Megan Risdal"
-  github_username = "mrisdal"
-  twitter_username = "meganrisdal"
   SidebarRecentLimit = 5
+  description = "Megan Risdal's personal website"
+  images = ["img/hero.jpg"]
+
+  [params.social]
+    twitter = "meganrisdal"
+    github = "mrisdal"
 
 [permalinks]
   post = "/:year/:month/:title/"
