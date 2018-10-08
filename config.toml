@@ -1,15 +1,18 @@
 baseURL = "https://mrisdal.github.io/blog/"
 publishDir = "docs"
 languageCode = "en-us"
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License"
 title = "Megan Risdal"
 footnoteReturnLinkContents = "↩"
 theme = "base16"
 sectionPagesMenu = "main"
 pluralizeListTitles = "false"
 
+[author]
+  name = "Megan Risdal" 
+  email = "mrisdal@gmail.com"
+
 [params]
-  AuthorName = "Megan Risdal"
-  SidebarRecentLimit = 5
   description = "Megan Risdal's personal website"
   images = ["img/hero.jpg"]
 
