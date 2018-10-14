@@ -7,6 +7,7 @@ footnoteReturnLinkContents = "↩"
 theme = "base16"
 sectionPagesMenu = "main"
 pluralizeListTitles = "false"
+googleAnalytics = "UA-127474557-1"
 
 [author]
   name = "Megan Risdal" 
