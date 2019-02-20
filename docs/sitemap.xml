@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://mrisdal.github.io/blog/posts/amassing-swe-knowledge-as-a-pm/</loc>
+    <lastmod>2019-02-19T23:50:25-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mrisdal.github.io/blog/posts/new-hobbies/</loc>
     <lastmod>2018-10-06T17:53:46-07:00</lastmod>
   </url>
@@ -34,7 +39,26 @@
   </url>
   
   <url>
+    <loc>https://mrisdal.github.io/blog/tags/career/</loc>
+    <lastmod>2019-02-19T23:50:25-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrisdal.github.io/blog/categories/career/</loc>
+    <lastmod>2019-02-19T23:50:25-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mrisdal.github.io/blog/categories/</loc>
+    <lastmod>2019-02-19T23:50:25-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrisdal.github.io/blog/tags/engineering/</loc>
+    <lastmod>2019-02-19T23:50:25-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -57,8 +81,14 @@
   </url>
   
   <url>
+    <loc>https://mrisdal.github.io/blog/tags/product-management/</loc>
+    <lastmod>2019-02-19T23:50:25-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mrisdal.github.io/blog/tags/</loc>
-    <lastmod>2018-10-06T17:53:46-07:00</lastmod>
+    <lastmod>2019-02-19T23:50:25-05:00</lastmod>
     <priority>0</priority>
   </url>
   
