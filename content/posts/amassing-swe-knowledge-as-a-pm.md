@@ -40,3 +40,11 @@ And so there's what I've come up with to answer my coworker's question. I'm stil
 My final piece of meta advice from here is to demonstrate that you're listening and working on improving your engineering knowledge. The more you make product decisions with the things you learned through the help of your coworkers as input, the more people will come to trust you. And in turn, they'll share more with you. It's a really rewarding cycle.
 
 Be curious. Be empathetic.
+
+--
+
+## Reply
+
+Follow the conversation and discuss on Twitter.
+
+{{< tweet 1098104382569078784 >}}
