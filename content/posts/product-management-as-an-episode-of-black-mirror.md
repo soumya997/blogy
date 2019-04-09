@@ -2,8 +2,8 @@
 title = "Product Management as an Episode of Black Mirror" 
 date = 2019-04-09T01:43:59-04:00 
 draft = false 
-tags = [] 
-categories = [] 
+tags = ["product management", "film and tv", "career"] 
+categories = ["career"] 
 +++
 
 Being a product manager on a small remote, distributed team reminds me a lot of the Black Mirror episode, [_Be Right Back_](https://en.wikipedia.org/wiki/Be_Right_Back). 
