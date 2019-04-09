@@ -24,3 +24,11 @@ Here are a few reasons why I think Black Mirror worthy documentation should be a
 * It's like designing a redundant system... if I make myself partly redundant through documentation, I might be able to afford to spend some of my time on a bit of extra higher level strategy and planning here and there. ;)
 
 So there you go, that's why being a product manager at a remote, distributed company is like being in an episode of Black Mirror (except in a good way!).
+
+--
+
+## Reply
+
+Follow the conversation and discuss on Twitter.
+
+{{< tweet 1115500289891557377 >}}
