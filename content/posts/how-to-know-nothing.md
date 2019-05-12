@@ -73,3 +73,11 @@ I've distilled the advice I got into the several different themes I wrote about 
 2. Be inquisitive
 
 And eventually you _will_ know something again.
+
+--
+
+## Reply
+
+Follow the conversation and discuss on Twitter.
+
+{{< tweet 1127699988551626752 >}}
