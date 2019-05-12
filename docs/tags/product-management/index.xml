@@ -9,10 +9,97 @@
     <managingEditor>mrisdal@gmail.com (Megan Risdal)</managingEditor>
     <webMaster>mrisdal@gmail.com (Megan Risdal)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License</copyright>
-    <lastBuildDate>Tue, 09 Apr 2019 01:43:59 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2019 17:00:27 -0400</lastBuildDate>
     
         <atom:link href="https://mrisdal.github.io/blog/tags/product-management/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to Know Nothing</title>
+      <link>https://mrisdal.github.io/blog/posts/how-to-know-nothing/</link>
+      <pubDate>Sun, 12 May 2019 17:00:27 -0400</pubDate>
+      <author>mrisdal@gmail.com (Megan Risdal)</author>
+      <guid>https://mrisdal.github.io/blog/posts/how-to-know-nothing/</guid>
+      <description>
+
+&lt;p&gt;A couple of months ago I started a new job as a product manager at Stack Overflow. This blog post is about how to know nothing in a new job. It&amp;rsquo;s about that whiplash-like experience of going from confidently knowing everything there is to know about your work to coming to a grinding to halt so you can start all over again from scratch.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://frinkiac.com/video/S09E19/TZFO4rsFaIkVsYcDt05xmH3LkhE=.gif&#34;&gt;&lt;/p&gt;
+
+&lt;p&gt;Okay, maybe it&amp;rsquo;s not so dramatic as that, but the insecure feelings I was having inspired me to ask for advice from my Twitter followers:&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Going from knowing everything and a half at one job to starting fresh is rough. Anyone have any tips for feeling better about it?&lt;/p&gt;&amp;mdash; Megan Risdal 👾 (@MeganRisdal) &lt;a href=&#34;https://twitter.com/MeganRisdal/status/1120880418562002945?ref_src=twsrc%5Etfw&#34;&gt;April 24, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;To give some more background, I was feeling especially daunted by my own lack of knowledge for a couple of reasons, I think:&lt;/p&gt;
+
+&lt;p&gt;First, at &lt;a href=&#34;https://www.kaggle.com/mrisdal&#34;&gt;Kaggle&lt;/a&gt; (my previous job) I worked through a really exciting high growth period. When I started in 2016, they were focused mainly on competitions and towards the end of my time there we had massively expanded the community, the product, and the team. We even lived through a successful acquisition by Google. I was present as a participant, either as a &amp;ldquo;witness&amp;rdquo; or &amp;ldquo;creator&amp;rdquo;, in all of this change. I felt that I could competently answer just about any question someone (internal or external) could ask me about Kaggle.&lt;/p&gt;
+
+&lt;p&gt;Second, the company I&amp;rsquo;ve joined (&lt;a href=&#34;https://stackoverflow.com/users/8157789/megan-risdal?tab=profile&#34;&gt;Stack Overflow&lt;/a&gt;) is quite a bit like Kaggle in that it has a large, technical userbase with a rich history of cultural norms and past product decisions. That rich history has made Stack Overflow the household brand it is today, but it can feel intimidating as someone who wasn&amp;rsquo;t an active participant in it over the years. It&amp;rsquo;s a lot of tribal knowledge to catch up on!&lt;/p&gt;
+
+&lt;p&gt;Anyway, for this blog post I wanted to summarize some of the great advice I got from folks on Twitter.&lt;/p&gt;
+
+&lt;h2 id=&#34;1-it-s-normal-and-okay-to-feel-insecure&#34;&gt;1. It&amp;rsquo;s normal and okay to feel insecure&lt;/h2&gt;
+
+&lt;p&gt;This is worth mentioning up front! I got a number of replies from people either expressing solidarity or assuring me it&amp;rsquo;s a normal feeling for anyone starting a new job.&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Any time one starts a new job, it is completely normal to feel overwhelmed and insecure about your knowledge. Remember, starting out fresh is overwhelming for anyone. It&amp;#39;s completely normal for people to take 60-90 days to get up to speed.&lt;br&gt;&lt;br&gt;Just remember you are kickass!&lt;/p&gt;&amp;mdash; Jason Baumgartner (@jasonbaumgartne) &lt;a href=&#34;https://twitter.com/jasonbaumgartne/status/1121099345535864842?ref_src=twsrc%5Etfw&#34;&gt;April 24, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;h2 id=&#34;2-remind-yourself-you-were-competent-and-you-will-be-again&#34;&gt;2. Remind yourself you were competent and you will be again&lt;/h2&gt;
+
+&lt;p&gt;This is for those of us that laugh at the idea of ever succumbing to the &lt;a href=&#34;https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect&#34;&gt;Dunning–Kruger effect&lt;/a&gt; when it comes to evaluating our own competence. I&amp;rsquo;ll admit that I requested my personnel file when leaving Google so I have my performance reviews to remind me that I &lt;em&gt;can&lt;/em&gt; kick ass at my job in some objective-ish sense.&lt;/p&gt;
+
+&lt;p&gt;I like this reply from someone else who recently changed teams:&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I mean j still feel hella dumb.. but I know I feel dumb because I&amp;#39;m learning new things. Which helps me realize I&amp;#39;m not really dumb. It&amp;#39;s just how I feel.&lt;/p&gt;&amp;mdash; Fred Lucci 3 (@ProbNotABot) &lt;a href=&#34;https://twitter.com/ProbNotABot/status/1121188776250888192?ref_src=twsrc%5Etfw&#34;&gt;April 24, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;h2 id=&#34;3-lean-into-your-newbie-perspective-as-superpower&#34;&gt;3. Lean into your newbie perspective as superpower&lt;/h2&gt;
+
+&lt;p&gt;This was probably my favorite reply (from a former colleague at Google):&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;It helps when people remind me that being new to a company/role/tech area is a super power. You have fresh eyes, new perspectives, ideas for connections not yet made.&lt;br&gt;&lt;br&gt;Keep wearing those newbie cuffs of power as long as you can!&lt;/p&gt;&amp;mdash; commandasaurus 🦕 (@amcasari) &lt;a href=&#34;https://twitter.com/amcasari/status/1120881183552757760?ref_src=twsrc%5Etfw&#34;&gt;April 24, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;It was also stated nicely by another person who &lt;a href=&#34;https://twitter.com/ztuylime/status/1121132899166605312&#34;&gt;replied with this quote&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;In the beginner&amp;rsquo;s mind there are many possibilities,
+but in the expert&amp;rsquo;s there are few
+&lt;a href=&#34;https://www.dailyzen.com/journal/zen-mind-beginners-mind&#34;&gt;&lt;em&gt;Shunryu Suzuki&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Because I know I have a lot to learn in my new role, I&amp;rsquo;ve had an amazing opportunity to ask &amp;ldquo;Why?&amp;rdquo; so many times. I&amp;rsquo;m definitely going to keep wearing this hat for as long as I can as I talk to both coworkers &lt;a href=&#34;https://twitter.com/MeganRisdal/status/1127006719492509701?s=20&#34;&gt;as well as users&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/aCraigPfeifer/status/1121089455538999297&#34;&gt;As someone else replied&lt;/a&gt;, by challenging assumptions you&amp;rsquo;re &amp;ldquo;both learning about the environment and moving it forward.&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;4-be-vulnerable&#34;&gt;4. Be vulnerable&lt;/h2&gt;
+
+&lt;p&gt;People can only help you if they know what you&amp;rsquo;re struggling with or how you want to improve. Maybe it wasn&amp;rsquo;t comfortable for me to tweet the world about not knowing everything, but it got me some amazing replies that can hopefully help even more people than just myself. Plus, &lt;a href=&#34;https://twitter.com/richwag/status/1120907365157625856&#34;&gt;as someone replied&lt;/a&gt;, &amp;ldquo;If you don&amp;rsquo;t feel uncomfortable you&amp;rsquo;re not learning.&amp;rdquo;&lt;/p&gt;
+
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;I dunno, I&amp;#39;ve really struggled to have this kind of vulnerability in my new gig and I think I&amp;#39;ve come off as a know-it-all asshole at times. I think you&amp;#39;re winning 😁&lt;/p&gt;&amp;mdash; Justin Kiggins (@neuromusic) &lt;a href=&#34;https://twitter.com/neuromusic/status/1120915698350321664?ref_src=twsrc%5Etfw&#34;&gt;April 24, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;This also ties in well with &lt;a href=&#34;https://twitter.com/tinkertim/status/1120887904287494145&#34;&gt;some other advice I got&lt;/a&gt; to request feedback early and often as a newcomer to a team.&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ve distilled the advice I got into the several different themes I wrote about above, but at the end of the day my two biggest takeaways are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Be patient with yourself&lt;/li&gt;
+&lt;li&gt;Be inquisitive&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And eventually you &lt;em&gt;will&lt;/em&gt; know something again.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Product Management as an Episode of Black Mirror</title>
