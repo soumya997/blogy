@@ -222,3 +222,11 @@ Continue keeping impact in perspective and strive to better serve the needs of a
 These beliefs are a reflection of my own personal values as a growing product leader who’s passionate about building great experiences for global developer communities, and as someone who has a great deal of optimism about the future of Stack Overflow. If I had to sum them up, I’d say I believe in unrelenting user focus and optimizing for global, rather than local, minima. I’m excited to take these values, along with everything I learned at Stack Overflow, with me in my next adventure: rejoining the [Kaggle](https://www.kaggle.com/) team at Google.
 
 *Thank you to Shog9, Donna Choi, and Julia Silge for their feedback on drafts of this post.*
+
+--
+
+## Reply
+
+Follow the conversation and discuss on Twitter.
+
+{{< tweet 1203000660817367041 >}}
