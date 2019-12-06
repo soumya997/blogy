@@ -1,5 +1,5 @@
 +++ 
-title = "My Interview with Superlinguo: Linguistics in Careers"
+title = "My Interview with Superlinguo: Linguists in Careers"
 date = 2019-12-06T00:29:18-05:00 
 draft = false
 tags = ["career", "product management", "communities"]
@@ -55,4 +55,4 @@ I think every tech company should look to hire people trained in linguistics. Th
 
 Follow the conversation and discuss on Twitter.
 
-{{< tweet 1202824434970591232 >}}
+{{< tweet 1202825630632439809 >}}
