@@ -47,6 +47,12 @@ Overall, I’m very happy with my trajectory. I’m extremely grateful to everyo
 
 I think every tech company should look to hire people trained in linguistics. There are so, so many ways in which a background in linguistics is relevant to so many careers in tech. From user research to data science to (apparently) product management, a background in linguistics adds a unique and valuable perspective. If you’re not sure what you’re qualified for, carefully tailor your experience, cast your net wide, and seek out advice!
 
-... 
+*Read more interviews on [Superlinguo](https://www.superlinguo.com/)!*
 
-Read more interviews on [Superlinguo](https://www.superlinguo.com/)!
+--
+
+## Reply
+
+Follow the conversation and discuss on Twitter.
+
+{{< tweet 1202824434970591232 >}}
