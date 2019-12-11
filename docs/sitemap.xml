@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://mrisdal.github.io/blog/posts/my-2019/</loc>
+    <lastmod>2019-12-11T02:29:15-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mrisdal.github.io/blog/posts/reflections-on-stack-overflow/</loc>
     <lastmod>2019-12-06T00:48:59-05:00</lastmod>
   </url>
@@ -95,8 +100,8 @@
   </url>
   
   <url>
-    <loc>https://mrisdal.github.io/blog/categories/hobbies/</loc>
-    <lastmod>2018-10-06T17:53:46-07:00</lastmod>
+    <loc>https://mrisdal.github.io/blog/tags/hobbies/</loc>
+    <lastmod>2019-12-11T02:29:15-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -108,7 +113,13 @@
   
   <url>
     <loc>https://mrisdal.github.io/blog/tags/personal/</loc>
-    <lastmod>2018-10-06T17:53:46-07:00</lastmod>
+    <lastmod>2019-12-11T02:29:15-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrisdal.github.io/blog/categories/personal/</loc>
+    <lastmod>2019-12-11T02:29:15-05:00</lastmod>
     <priority>0</priority>
   </url>
   

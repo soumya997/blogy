@@ -2,8 +2,8 @@
 title = "New Hobbies" 
 date = 2018-10-06T17:53:46-07:00 
 draft = false 
-tags = ["personal"] 
-categories = ["hobbies"] 
+tags = ["personal","hobbies"] 
+categories = ["personal"] 
 +++
 
 A couple of weeks ago I tweeted that I wanted to explore new hobbies. For the past couple of years, I've engrossed myself in a job I love. My career development has been really rewarding professionally, but lately I've felt personally underdeveloped. My current hobbies include seeing movies (especially horror and sci-fi) and exploring my new home of Los Angeles (biking, hiking, and of course eating). While these things are fun, I feel like I could be doing and *creating* so much more. 
