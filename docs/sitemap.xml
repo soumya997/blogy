@@ -23,6 +23,11 @@
   </url>
   
   <url>
+    <loc>https://mrisdal.github.io/blog/posts/kaggle-wfh-tips/</loc>
+    <lastmod>2020-03-29T14:51:50-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mrisdal.github.io/blog/posts/transparency-in-online-communities/</loc>
     <lastmod>2020-01-22T22:16:30-05:00</lastmod>
   </url>
@@ -75,19 +80,19 @@
   
   <url>
     <loc>https://mrisdal.github.io/blog/tags/career/</loc>
-    <lastmod>2019-12-06T00:48:59-05:00</lastmod>
+    <lastmod>2020-03-29T14:51:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mrisdal.github.io/blog/categories/career/</loc>
-    <lastmod>2020-01-22T22:16:30-05:00</lastmod>
+    <lastmod>2020-03-29T14:51:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mrisdal.github.io/blog/categories/</loc>
-    <lastmod>2020-01-22T22:16:30-05:00</lastmod>
+    <lastmod>2020-03-29T14:51:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -146,14 +151,32 @@
   </url>
   
   <url>
+    <loc>https://mrisdal.github.io/blog/tags/productivity/</loc>
+    <lastmod>2020-03-29T14:51:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrisdal.github.io/blog/tags/remote-work/</loc>
+    <lastmod>2020-03-29T14:51:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://mrisdal.github.io/blog/tags/</loc>
-    <lastmod>2019-12-06T00:48:59-05:00</lastmod>
+    <lastmod>2020-03-29T14:51:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://mrisdal.github.io/blog/tags/transparency/</loc>
     <lastmod>2020-01-22T22:16:30-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mrisdal.github.io/blog/tags/wfh/</loc>
+    <lastmod>2020-03-29T14:51:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   
