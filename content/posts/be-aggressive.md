@@ -25,3 +25,11 @@ So after dwelling on this for a couple of days, I think I've come up with a way 
 Anyway, this isn't really a theory informed blog post. It could be if I spent some minutes doing some research on gendered language in the workplace and maybe I'll do that later. Even though as a linguist I feel a bit guilty about that, for now I wanted the gratification of finally publishing a new blog post after a few months. 
 
 How do you decide how "aggressive" to be at work? 
+
+--
+
+## Reply
+
+Follow the conversation and discuss on Twitter.
+
+{{< tweet 1274184503880060928 >}}
