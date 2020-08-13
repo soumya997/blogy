@@ -102,3 +102,11 @@ Even though reliability still remains a top concern for our users, we were reall
 The biggest takeaway is that we’re not done yet, but we’re trending in the right direction. We remind ourselves regularly that this is a journey and what matters is being on the right track. Based on our results so far, we intend to maintain our dedicated reliability working group, set new goals, and continue to listen to user feedback.
 
 _Massive thanks to everyone on the team who contributed to this effort: [Aurelio](https://www.kaggle.com/aagundez), [Jim](https://www.kaggle.com/jplotts), [Dustin](https://www.kaggle.com/herbison), [Cole](https://www.kaggle.com/noderaider), [Philippe (Mod)](https://www.kaggle.com/gphilmod), [Michael](https://www.kaggle.com/mbooth), [Vincent](https://www.kaggle.com/rosebv), [Erdal](https://www.kaggle.com/erdalsivri), [Einav](https://www.kaggle.com/einavcb), [Chelsea](https://www.kaggle.com/craerek). It’s an honor and a thrill to be part of such a great team.  Special thanks to Jim who co-authored the original internal report that this blog post is based on and to [Jessica](https://www.kaggle.com/jessicali9530) for fielding the survey. Last but far from least, thank you to our users for your invaluable feedback and your patience!_
+
+--
+
+## Reply
+
+Follow the conversation and discuss on Twitter.
+
+{{< tweet 1294039078933901312 >}}
