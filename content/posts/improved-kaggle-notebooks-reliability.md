@@ -8,7 +8,7 @@ categories = ["product"]
 
 I’ve worked at Kaggle on-and-off since 2016. In this time, THE most consistent source of user feedback is about the reliability of [Kaggle Notebooks](https://www.kaggle.com/notebooks). Sessions were slow to start and, far worse, sometimes users would lose hours of work. While progress had been made over the years, we’d never systematically addressed the problems.
 
-Over the past half year or so since I’ve rejoined Kaggle, the Notebooks team renewed its focus on reliability. In this post, I'm proud to share how our team used a systemic approach to significantly improve reliability, both in terms of quantitative metrics as well as user perceptions.
+Over the past half year or so since I’ve rejoined Kaggle, the Notebooks team renewed its focus on reliability. In this post, I'm proud to share how our team used a systematic approach to significantly improve reliability, both in terms of quantitative metrics as well as user perceptions.
 
   
 
