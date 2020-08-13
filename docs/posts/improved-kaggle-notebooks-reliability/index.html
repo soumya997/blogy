@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<meta charset="utf-8">
+<meta name="description" content="Megan Risdal&#39;s personal website">
+<meta name="generator" content="Hugo 0.54.0" />
+
+<meta name="twitter:title" content="How our team improved perceived reliability of Kaggle Notebooks"/>
+<meta name="twitter:description" content="I’ve worked at Kaggle on-and-off since 2016. In this time, THE most consistent source of user feedback is about the reliability of Kaggle Notebooks. Sessions were slow to start and, far worse, sometimes users would lose hours of work. While progress had been made over the years, we’d never systematically addressed the problems.
+Over the past half year or so since I’ve rejoined Kaggle, the Notebooks team renewed its focus on reliability."/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@meganrisdal"/>
+
+
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-127474557-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/blog/css/style.css" type="text/css">
+<link rel="stylesheet" href="https://mrisdal.github.io/blog/css/custom.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700" type="text/css">
+<link rel="alternate" href="/blog/index.xml" type="application/rss+xml" title="Megan Risdal">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+<link rel="apple-touch-icon" sizes="72x72" href="/blog/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/blog/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/blog/img/favicon-16x16.png">
+<link rel="manifest" href="/blog/img/site.webmanifest">
+<link rel="mask-icon" href="/blog/img/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+<title>How our team improved perceived reliability of Kaggle Notebooks - Megan Risdal</title>
+</head>
+<body>
+
+<header>
+  <div class="container clearfix">
+    <a class="path" href="https://mrisdal.github.io/blog/">[Megan Risdal]</a>
+    <span class="caret">>_</span>
+    <div class="right">
+        
+        
+        <a class="path sidebar-nav-item active" href="/blog/posts/" title="">Posts</a>
+        
+        <a class="path sidebar-nav-item" href="/blog/about/" title="">About</a>
+        
+    </div>
+  </div>
+  
+</header>
+
+<div class="container">
+
+
+<main role="main" class="article">
+  
+<article class="single" itemscope itemtype="http://schema.org/BlogPosting">
+  <div class="meta">
+
+    <span class="key">published on</span>
+    <span class="val"><time itemprop="datePublished" datetime="2020-08-13">August 13, 2020</time></span>
+
+
+    <span class="key">in</span>
+    <span class="val">
+
+        <a href="/blog/categories/product">product</a>
+
+    </span>
+
+
+    <br>
+    <span class="key">tags:</span>
+    <span class="val">
+
+        <a href="/blog/tags/product%20management">product management</a>
+
+        <a href="/blog/tags/data">data</a>
+
+        <a href="/blog/tags/kaggle">kaggle</a>
+
+    </span>
+
+  </div>
+  <h1 class="headline" itemprop="headline">How our team improved perceived reliability of Kaggle Notebooks</h1>
+  <section class="body" itemprop="articleBody">
+    
+
+<p>I’ve worked at Kaggle on-and-off since 2016. In this time, THE most consistent source of user feedback is about the reliability of <a href="https://www.kaggle.com/notebooks">Kaggle Notebooks</a>. Sessions were slow to start and, far worse, sometimes users would lose hours of work. While progress had been made over the years, we’d never systematically addressed the problems.</p>
+
+<p>Over the past half year or so since I’ve rejoined Kaggle, the Notebooks team renewed its focus on reliability. In this post, I&rsquo;m proud to share how our team used a systemic approach to significantly improve reliability, both in terms of quantitative metrics as well as user perceptions.</p>
+
+<h2 id="background">Background</h2>
+
+<p>Kaggle Notebooks is a no-cost managed <a href="https://jupyter.org/">Jupyter-based</a> notebook product. Our users use Python and R notebooks to analyze datasets, train models, and submit predictions to machine learning competitions. Today we manage many thousands of VMs handling thousands of concurrent sessions for users all around the globe.</p>
+
+<p>When I joined in 2020, we felt confident that reliability was the number one thing we could work on to improve our users’ experience using Kaggle Notebooks. We knew this from:</p>
+
+<ul>
+<li><p>A <a href="https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43221.pdf">happiness and tracking survey</a> we send to a sample of users each month</p></li>
+
+<li><p>The volume of bug reports on our <a href="https://www.kaggle.com/product-feedback">site feedback forums</a></p></li>
+</ul>
+
+<p>Improving user experience is a critical priority for Kaggle for a few reasons:</p>
+
+<ol>
+<li><p>Notebook usage is required for some competitions and we don’t want the user experience to be such a pain that it turns users off participating completely.</p></li>
+
+<li><p>Many brand new data science learners use Notebooks and if you’re new to something, sometimes it’s hard to tell if bugs and instability are your fault or not.</p></li>
+
+<li><p>We want users to use Kaggle Notebooks enough to create cool, helpful analyses that they want to share with the community.</p></li>
+</ol>
+
+<h2 id="our-approach">Our approach</h2>
+
+<p>In our approach to the problem, we considered reliability as having two facets: actual and perceived. In the first half of 2020, we prioritized a number of focused improvements to address both facets:</p>
+
+<ul>
+<li><p>We maintained a dedicated working group to address a backlog of issues and monitor and respond to user feedback.</p></li>
+
+<li><p>We implemented a new scalable, highly available backend architecture (<a href="https://medium.com/google-cloud/a-multi-cluster-grpc-architecture-on-gke-365bbd757df">read about it from Mod</a>, the technical lead on the project) with multiregion support.</p></li>
+
+<li><p>We shipped features to improve perceived reliability like “sessionless editing”, a <a href="https://www.kaggle.com/product-feedback/139884">brand new save workflow</a>, and better session start/stop controls in the UI.</p></li>
+</ul>
+
+<p>We feel the biggest game-changer was the <a href="https://www.kaggle.com/product-feedback/152669">sessionless editing</a> feature that we delivered in June. Previously, rendering the notebook required a running jupyter server. But, starting the session took over a minute at the 95th percentile and about half a minute at the 50th percentile. This was a huge point of frustration for our users that we hypothesized contributed substantially to perceptions of poor reliability. With sessionless editing, we can now render and initialize the notebook editor within seconds.</p>
+
+<p>The gif below illustrates a side-by-side comparison of the experience before and after launching our sessionless editing feature.</p>
+
+<p><img src="https://lh6.googleusercontent.com/M4JW0ArB84eEPsvv5QPvSfj5mgmiyGShz2Z7G864Xtew7KWHGc-U9-FPlLdPwHDGOsVknZie7SOfDhdJcjbHr79XeaeLgXeRKoz1GmusJ-0XHSDW8vv9MlvCt7gfulhi4sMmJjASOA">
+<figcaption><em>Less waiting, more coding.</em></figcaption></p>
+
+<p>Next, measuring impact was critical. To match actual and perceived reliability, we took a multi-modal approach to quantifying the results of our efforts.</p>
+
+<p>To measure actual reliability, our reliability working group created a dashboard to monitor and set goals against some key metrics like availability and time-to-edit latency.</p>
+
+<p>In part to measure perceived reliability on an ongoing basis, we also started a quarterly one-question survey. It asks recent notebooks users to “Please select any of the issues below that you have experienced on Kaggle Notebooks in the past couple of months”. Users could then select multiple options like “Notebook session was unreliable” and “Insufficient features available”. We fielded the survey twice: once at the end of Q1 and again at the end of Q2.</p>
+
+<h2 id="results">Results</h2>
+
+<p>I’ll focus on the qualitative results in response to the one-question reliability survey. Our quantitative data showed progress, but would require a longer blog post to walk through.</p>
+
+<p>First, you can see the overall results below.</p>
+
+<p><img src="https://lh5.googleusercontent.com/ZFxsZkuPKlMNm64NdbU8Wf07xhdO3TLfSsKdatZqk_zkjxwo48W6-FKLHLKu3h_amLMHC0Y9AeWnzQn1P4vEaSxcNF_kHPgER34N6e-8o4h1yyKeSn1mLCS3PEnuSry7HZcD4eG0yw">
+<figcaption><em>Overall issues that survey respondents said they experience using Kaggle Notebooks.</em></figcaption></p>
+
+<p>Most users in both quarters reported having no recent issues which is great. But, reliability (i.e., “Notebook session was unreliable”) was the second most common response in both quarters. Reliability concerns definitely still persist among respondents.</p>
+
+<p>When we focus on percentage change between Q1 and Q2, however, it becomes clear that we did successfully make progress in the right direction.</p>
+
+<p><img src="https://lh3.googleusercontent.com/FSuAei-kyBuW76fb9v0V8va91RgmFGfIB98cFD_St4iWTPfx1GC7qBQfzFh0G26i2OKKBm5L9shfD3Wlagjgn2jO8TbTrQSOJYdHovEAxvG1BqYLRmI_EJsEMHujFHdhy4ahtyPGyA">
+<figcaption><em>Percentage change from quarter-to-quarter for each issue.</em></figcaption></p>
+
+<p>Because most of these items are issues (i.e., pain points), an increase from Q1 to Q2 is generally bad (red) whereas a decrease is generally good (blue). Only some of the changes are actually significant (the solid-filled bars).</p>
+
+<p>We saw statistically significant decreases in users mentioning:</p>
+
+<ul>
+<li><p>📉 33%: Can&rsquo;t depend on notebooks to do serious work</p></li>
+
+<li><p>📉 19%: Session was unreliable</p></li>
+
+<li><p>📉 18%: Session was slow</p></li>
+</ul>
+
+<p>Even though reliability still remains a top concern for our users, we were really pleased with these results. Plus, this is the first time we’ve quantified user perceptions to tell us that we’re making progress.</p>
+
+<h2 id="takeaways">Takeaways</h2>
+
+<p>The biggest takeaway is that we’re not done yet, but we’re trending in the right direction. We remind ourselves regularly that this is a journey and what matters is being on the right track. Based on our results so far, we intend to maintain our dedicated reliability working group, set new goals, and continue to listen to user feedback.</p>
+
+<p><em>Massive thanks to everyone on the team who contributed to this effort: <a href="https://www.kaggle.com/aagundez">Aurelio</a>, <a href="https://www.kaggle.com/jplotts">Jim</a>, <a href="https://www.kaggle.com/herbison">Dustin</a>, <a href="https://www.kaggle.com/noderaider">Cole</a>, <a href="https://www.kaggle.com/gphilmod">Philippe (Mod)</a>, <a href="https://www.kaggle.com/mbooth">Michael</a>, <a href="https://www.kaggle.com/rosebv">Vincent</a>, <a href="https://www.kaggle.com/erdalsivri">Erdal</a>, <a href="https://www.kaggle.com/einavcb">Einav</a>, <a href="https://www.kaggle.com/craerek">Chelsea</a>. It’s an honor and a thrill to be part of such a great team.  Special thanks to Jim who co-authored the original internal report that this blog post is based on and to <a href="https://www.kaggle.com/jessicali9530">Jessica</a> for fielding the survey. Last but far from least, thank you to our users for your invaluable feedback and your patience!</em></p>
+
+  </section>
+</article>
+
+</main>
+
+</div>
+
+<footer>
+  <div class="container">
+    <span class="copyright">&copy; 2020 Megan Risdal - <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></span>
+  </div>
+</footer>
+
+</body>
+</html>
+

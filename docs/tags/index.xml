@@ -42,6 +42,15 @@
     </item>
     
     <item>
+      <title>Data</title>
+      <link>https://mrisdal.github.io/blog/tags/data/</link>
+      <pubDate>Thu, 13 Aug 2020 15:18:44 -0700</pubDate>
+      <author>mrisdal@gmail.com (Megan Risdal)</author>
+      <guid>https://mrisdal.github.io/blog/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Engineering</title>
       <link>https://mrisdal.github.io/blog/tags/engineering/</link>
       <pubDate>Tue, 19 Feb 2019 23:50:25 -0500</pubDate>
@@ -69,6 +78,15 @@
     </item>
     
     <item>
+      <title>Kaggle</title>
+      <link>https://mrisdal.github.io/blog/tags/kaggle/</link>
+      <pubDate>Thu, 13 Aug 2020 15:18:44 -0700</pubDate>
+      <author>mrisdal@gmail.com (Megan Risdal)</author>
+      <guid>https://mrisdal.github.io/blog/tags/kaggle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Personal</title>
       <link>https://mrisdal.github.io/blog/tags/personal/</link>
       <pubDate>Fri, 19 Jun 2020 19:47:01 -0700</pubDate>
@@ -89,7 +107,7 @@
     <item>
       <title>Product Management</title>
       <link>https://mrisdal.github.io/blog/tags/product-management/</link>
-      <pubDate>Fri, 06 Dec 2019 00:48:59 -0500</pubDate>
+      <pubDate>Thu, 13 Aug 2020 15:18:44 -0700</pubDate>
       <author>mrisdal@gmail.com (Megan Risdal)</author>
       <guid>https://mrisdal.github.io/blog/tags/product-management/</guid>
       <description></description>
