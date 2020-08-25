@@ -6,7 +6,7 @@ tags = ["data science", "kaggle", "code", "learning"]
 categories = ["career"] 
 +++
 
-Yesterday, it was a great honor to be a guest on [Nick Wan's](https://twitter.com/nickwan) data science livestream on Twitch to talk through bad (and less bad) data viz that I've created.
+Yesterday, it was a great honor to be a guest on [Nick Wan's](https://twitter.com/nickwan) data science livestream on Twitch to [talk through bad (and less bad) data viz that I've created](https://www.twitch.tv/videos/720567732?t=00h20m40s).
 
 <!-- In case I can get this working later
 <iframe
@@ -74,3 +74,11 @@ Especially if you have thoughts about how to measure quality, I'm interested in 
 Thanks to my willingness to publish what you could call "bad data viz" today, I've come a really long ways in my career. It's been an awesome journey from doing a small work test in a notebook to now managing that very notebook product in a few years. In a fun twist of fate, I suppose now I'm even responsible for how slowly this page loads due to its popularity!
 
 If you want to hear more about my journey and my perspectives on data visualization (including an example of a "good" data viz), check out [my interview on Nick Wan's Twitch](https://www.twitch.tv/videos/720567732?t=00h20m40s).
+
+--
+
+## Reply
+
+Follow the conversation and discuss on Twitter.
+
+{{< tweet 1298398384529633280 >}}
