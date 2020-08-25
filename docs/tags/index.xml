@@ -24,6 +24,15 @@
     </item>
     
     <item>
+      <title>Code</title>
+      <link>https://mrisdal.github.io/blog/tags/code/</link>
+      <pubDate>Tue, 25 Aug 2020 13:38:46 -0700</pubDate>
+      <author>mrisdal@gmail.com (Megan Risdal)</author>
+      <guid>https://mrisdal.github.io/blog/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Communication</title>
       <link>https://mrisdal.github.io/blog/tags/communication/</link>
       <pubDate>Fri, 19 Jun 2020 19:47:01 -0700</pubDate>
@@ -47,6 +56,15 @@
       <pubDate>Thu, 13 Aug 2020 15:18:44 -0700</pubDate>
       <author>mrisdal@gmail.com (Megan Risdal)</author>
       <guid>https://mrisdal.github.io/blog/tags/data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://mrisdal.github.io/blog/tags/data-science/</link>
+      <pubDate>Tue, 25 Aug 2020 13:38:46 -0700</pubDate>
+      <author>mrisdal@gmail.com (Megan Risdal)</author>
+      <guid>https://mrisdal.github.io/blog/tags/data-science/</guid>
       <description></description>
     </item>
     
@@ -80,9 +98,18 @@
     <item>
       <title>Kaggle</title>
       <link>https://mrisdal.github.io/blog/tags/kaggle/</link>
-      <pubDate>Thu, 13 Aug 2020 15:18:44 -0700</pubDate>
+      <pubDate>Tue, 25 Aug 2020 13:38:46 -0700</pubDate>
       <author>mrisdal@gmail.com (Megan Risdal)</author>
       <guid>https://mrisdal.github.io/blog/tags/kaggle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning</title>
+      <link>https://mrisdal.github.io/blog/tags/learning/</link>
+      <pubDate>Tue, 25 Aug 2020 13:38:46 -0700</pubDate>
+      <author>mrisdal@gmail.com (Megan Risdal)</author>
+      <guid>https://mrisdal.github.io/blog/tags/learning/</guid>
       <description></description>
     </item>
     
