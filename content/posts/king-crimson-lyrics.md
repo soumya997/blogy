@@ -100,3 +100,4 @@ Unlike the fossil in these lyrics, a product manager should reflect and learn fr
 
 Follow the conversation and discuss on Twitter.
 
+{{< tweet 1319822484754042880 >}}
