@@ -3,7 +3,7 @@ title = "Product management lessons learned through King Crimson lyrics"
 date = 2020-10-23T18:47:03-07:00 
 draft = false 
 tags = ["product management"] 
-categories = ["persona", "career"] 
+categories = ["personal", "career"] 
 +++
 
 Almost every musician I listen to carries influences of the progressive rock band King Crimson. For instance, my favorite musician Steven Wilson has put out entire albums that (to me) sounds like a King Crimson “project”. Including his debut solo album _Grace for Drowning_ which featured several King Crimson members including Tony Levin.
