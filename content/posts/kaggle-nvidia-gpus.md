@@ -3,7 +3,7 @@ title = "How Kaggle makes GPUs accessible to 5 million data scientists"
 date = 2020-11-08T17:03:30-08:00 
 draft = false 
 tags = ["kaggle", "data science"] 
-categories = ["work"] 
+categories = ["product"] 
 +++
 
 _[This post was first published on NVIDIA's developer blog on Oct 26th 2020](https://news.developer.nvidia.com/how-kaggle-makes-gpus-accessible-to-5-million-data-scientists/)_
