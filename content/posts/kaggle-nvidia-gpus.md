@@ -63,3 +63,11 @@ Finally, you can browse any of the [over 30,000 public GPU notebooks](https://ww
 We hope it’s fast and easy to get started, but if you have feedback [please let us know](https://www.kaggle.com/product-feedback)!
 
 _Thank you to Vincent Roseberry, Dustin Herbison, Philippe Modard, and Anna Montoya for their feedback on this post._
+
+--
+
+## Reply
+
+Follow the conversation and discuss on Twitter.
+
+{{< tweet 1325607215911235584 >}}
