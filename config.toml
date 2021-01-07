@@ -1,25 +1,23 @@
-baseURL = "https://mrisdal.github.io/blog/"
+baseURL = "https://soumya997.github.io/blogy/"
 publishDir = "docs"
 languageCode = "en-us"
-copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License"
-title = "Megan Risdal"
+title = "Soumyadip Sarkar"
 footnoteReturnLinkContents = "↩"
 theme = "base16"
 sectionPagesMenu = "main"
 pluralizeListTitles = "false"
-googleAnalytics = "UA-127474557-1"
 
 [author]
-  name = "Megan Risdal" 
-  email = "mrisdal@gmail.com"
+  name = "Soumyadip Sarkar" 
+  email = "soumya997.sarkar@gmail.com"
 
 [params]
   description = "Megan Risdal's personal website"
   images = ["img/hero.jpg"]
 
   [params.social]
-    twitter = "meganrisdal"
-    github = "mrisdal"
+    twitter = "Soumya997Sarkar"
+    github = "soumya997"
 
 [permalinks]
   post = "/:year/:month/:title/"
